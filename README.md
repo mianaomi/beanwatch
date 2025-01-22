@@ -8,4 +8,5 @@ Mia Cohen,
 Yusuf Hasan,
 Michael Wang,
 Lauren Rabe,
-Ian Tran
+Ian Tran,
+Emily Noel
